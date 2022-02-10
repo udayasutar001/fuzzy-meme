@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+3D&display=swap');
+
+body {
+    font-family: 'Rock 3D', cursive;
+    background-image: url("");
+    align-items: center;
+
+}
+
+h1 {
+    font-size: 60px;
+}
+
+#image-fan {
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    padding: auto;
+}
+
+#image-fan-moving {
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    display: none;
+}
+
+#play3 {
+    cursor: pointer;
+    
+}
+
+#stop3 {
+    cursor: pointer;
+    width: 300px;
+    height: 150px;
+    display: none;
+}
+
+#speed {
+    background: coral;
+    width: 500px;
+    border-radius: 20px;
+    display: none;
+}
+#input{
+    padding-bottom:10px;
+}
